@@ -1,4 +1,4 @@
-public class NameEncoderDecoder {
+class NameEncoderDecoder {
 
     public String encode (String name) {
 
