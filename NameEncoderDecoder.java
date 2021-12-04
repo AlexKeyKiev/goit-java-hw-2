@@ -1,5 +1,3 @@
-package AKorzh;
-
 public class NameEncoderDecoder {
 
     public String encode (String name) {
